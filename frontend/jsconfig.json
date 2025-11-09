@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "target": "es2020",
+    "allowSyntheticDefaultImports": true,
+    "checkJs": false
+  },
+  "exclude": ["node_modules"]
+}
